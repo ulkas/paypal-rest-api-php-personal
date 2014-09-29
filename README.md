@@ -14,7 +14,7 @@ Installation
 ============================
 - copy the sdk files to your project
 - or replace the test api credentials in the bootstrap.php file with your owns
-- 
+
 
 how to create a recurring payment:
 ============================
