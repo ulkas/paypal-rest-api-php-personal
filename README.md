@@ -9,3 +9,8 @@ refer to test.php for examples
 
 
 the files contain the official paypal php sdk for their REST API + my own created classes and modifiers for additional api calls which are not yet included within the sdk.
+
+Installation
+============================
+- copy the sdk files to your project
+- or replace the test api credentials in the bootstrap.php file with your owns
